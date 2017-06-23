@@ -1,0 +1,9 @@
+[package]
+name = "mandelbrot-rs"
+version = "0.1.0"
+authors = ["Aaron Hill <aa1ronham@gmail.com>"]
+
+[dependencies]
+num = "0.1"
+image = "0.14.0"
+num-complex = "0.1.38"
